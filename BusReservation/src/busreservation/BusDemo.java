@@ -13,8 +13,4 @@ public class BusDemo {
 				System.out.println("Booking Started.....");
 			}
 		}
-		System.out.println("Booking Stopped.....");
-
-	}
-
-}
+	}}
