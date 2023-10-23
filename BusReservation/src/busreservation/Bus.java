@@ -43,7 +43,7 @@ public class Bus {
 	}
 	
 	public void displayBusInfo() {
-		System.out.println("Bus number :"+busno+"AC" +ac +"Total Capacity"+capacity);
+		System.out.println("Bus number : "+busno+"AC :" +ac +"Total Capacity :"+capacity);
 	}
 
 }
