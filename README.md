@@ -1,1 +1,1 @@
-This project is done with refernce.It is completed using core java concepts.
+This project is done with reference.It is completed using core java concepts.
