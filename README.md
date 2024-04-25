@@ -1,8 +1,6 @@
 [Project Description]
 
-## Learning Journey
 
-This repository is designed to help you learn [insert what your project helps users learn]. Here's a suggested learning journey:
 
 ### Installation
 This  project is developed using core java concepts,by using Eclispse IDE through reference.
