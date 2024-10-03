@@ -3,7 +3,7 @@
 
 
 ### Installation
-This  project is developed using core java concepts,by using Eclipse IDE through reference.
+This  project was developed using core java concepts,by using Eclipse IDE through reference.
 
 ### Basic Usage
 This project will be useful for beginners those who learn Java.
